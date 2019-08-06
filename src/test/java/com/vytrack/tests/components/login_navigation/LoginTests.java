@@ -4,6 +4,7 @@ import com.vytrack.utilities.ConfigurationReader;
 import com.vytrack.utilities.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -37,9 +38,16 @@ public class LoginTests extends TestBase {
 
     @Test
     @Parameters({ "username", "password" }) // get data from data testng.xml
-    public void loginWithParameters(String username, String password) {
+    public void loginWithParameters(@Optional String username, @Optional String password) {
         extentLogger = report.createTest("Login as store manager");
-
+      //@Optional tak will make testng parameter optional
+        //but, if there is no value - you will null
+        //thus, let's make sure parameters are not null
+        //if so, let's pull credentials from properties
+        if(username == null){
+            username = ConfigurationReader.getProperty("storemanagerusername");
+            password = ConfigurationReader.getProperty("storemanagerpassword");
+        }
         //we are instantiating page class inside a tests class,
         //because for second test, if we run all tests in a row, driver will have null session
         pages.loginPage().clickRememberMe();
@@ -50,7 +58,7 @@ public class LoginTests extends TestBase {
         extentLogger.pass("Verified page name: " + pages.dashboardPage().getPageSubTitle());
     }
 
-    @Test(dataProvider = "credentials_info") // get data from data provider
+    @Test(dataProvider = "credentials_info")
     public void loginWithDataProvider(String username, String password) {
         extentLogger = report.createTest("Login as store manager");
         System.out.println(username+"  ::  "+password);

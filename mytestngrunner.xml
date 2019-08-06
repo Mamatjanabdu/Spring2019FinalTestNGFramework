@@ -1,8 +1,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--suites -> suite -> test -> groups -> package -> class -> method-->
 <suite name="Login tests">
-    <test name="Login Tests">
-        <parameter name="username" value="storemanager85"></parameter>
-        <parameter name="password" value="UserUser123"></parameter>
+    <test name="Login">
+        <!--        we are specifying which tests we want to run here-->
         <classes>
             <class name="com.vytrack.tests.components.login_navigation.LoginTests"/>
         </classes>

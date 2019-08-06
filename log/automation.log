@@ -1,0 +1,115 @@
+2019-08-03 11:29:03 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:29:09 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:29:26 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 11:48:15 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:48:30 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:49:04 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 11:49:09 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 11:49:09 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 11:51:40 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:51:51 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:52:18 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:52:50 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:53:15 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:53:35 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:53:41 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:02:01 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:02:07 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:02:08 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:24:45 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:24:51 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:24:52 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:42:11 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:42:17 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:27 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:37 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:42 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:44 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:44:28 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:44:37 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:44:52 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:46:01 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:46:07 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:46:21 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:47:01 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:47:07 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:47:14 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:05:46 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:05:51 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 13:06:04 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 13:06:19 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 13:06:24 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 13:06:27 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 14:39:43 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:39:49 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:40:00 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:40:11 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:40:15 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:40:16 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 14:56:18 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:56:27 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:57:02 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:57:18 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 14:57:33 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:58:04 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:58:36 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:59:13 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:59:34 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:59:42 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 14:59:49 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 15:18:31 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 15:18:36 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:18:46 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:18:58 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:19:12 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:19:21 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:19:31 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:19:37 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 15:23:13 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 15:23:22 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:23:33 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:23:43 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:23:48 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:23:53 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:24:00 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:24:09 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:24:14 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:24:15 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 15:37:32 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 15:37:38 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:37:49 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 15:37:55 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 16:34:59 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 16:35:04 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 16:35:16 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 16:35:29 [main] ERROR BasePage:83 - Failed to click on :: Manage Dashboards
+2019-08-03 16:35:29 [main] ERROR BasePage:84 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.142)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mohammeds-Air.home', ip: 'fe80:0:0:0:8b3:f0:a927:124e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/lh/zr6y6kl10qg...}, goog:chromeOptions: {debuggerAddress: localhost:60722}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d687b0036979801bf4d6d5e190d4756
+2019-08-03 16:36:22 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 16:36:39 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 16:36:49 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 16:37:00 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 16:37:08 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-05 13:37:16 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_05_2019/report.html
+2019-08-05 13:37:23 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 13:37:24 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-05 14:48:35 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_05_2019/report.html
+2019-08-05 14:48:40 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:48:52 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:49:06 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:49:16 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:49:30 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:49:39 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-05 14:51:43 [main] INFO  TestBase:47 - Report path: /Users/mohammedkashgari/Downloads/va-spring-2019-selenium-testng/Spring2019FinalTestNGFramework/test-output/reports/08_05_2019/report.html
+2019-08-05 14:51:49 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:51:57 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:52:05 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:52:12 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:52:20 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:52:24 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 14:52:25 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
